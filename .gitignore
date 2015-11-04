@@ -1,0 +1,12 @@
+# -*- conf -*-
+
+# Various backup & temp files.
+\#*#
+.#*
+*~
+*.bak
+*.tmp
+
+# Dashing specific files.
+*.pyc
+db.sqlite3
