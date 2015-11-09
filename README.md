@@ -19,4 +19,9 @@ Start the dashing thingy with:
     cd zrajm
     sudo python manage.py runserver 172.31.4.95:80
 
+
+References
+==========
+  * [django-dashing](https://github.com/talpor/django-dashing)
+
 [eof]
