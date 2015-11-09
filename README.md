@@ -1,3 +1,8 @@
+These are some experiments, not at all a finished product of any kind. I'm just
+some playing around with django-dashing, to see how it works, and if it can be
+used to monitor development and production systems in more-or-less real time.
+
+
 Modified files
 ==============
 
@@ -5,6 +10,7 @@ Modified files
     zrajm/settings.py
     zrajm/urls.py
     zrajm/views.py
+
 
 Starting
 ========
