@@ -23,5 +23,6 @@ Start the dashing thingy with:
 References
 ==========
   * [django-dashing](https://github.com/talpor/django-dashing)
+  * [Vizrt](http://vizrt.com/)
 
 [eof]
